@@ -1,0 +1,7 @@
+/*
+
+!.gitignore
+!readme.md
+!notebooks/
+notebooks/*
+!notebooks/sent_classification_trainer.ipynb
